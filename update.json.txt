@@ -1,0 +1,5 @@
+{
+  "hashURL" : "https://raw.githubusercontent.com/DEATHGRIPARENA/DEATHGRIP-ARENA/main/hash.txt",
+  "downloadURL" : "https://drive.google.com/file/d/1DU_mTzd0u1wx7SgiAtuGWOFRf3FDPNjM/view?usp=sharing",
+  "message" : ""
+}
